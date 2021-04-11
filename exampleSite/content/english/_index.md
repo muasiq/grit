@@ -79,8 +79,8 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: 'If you feel like checking things out if it suits you, you can contact
+    us any time '
   button:
     enable: true
     label: Contact Us
