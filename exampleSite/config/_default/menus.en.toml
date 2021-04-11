@@ -35,7 +35,7 @@ url = "blog"
 weight = 2
 [[main]]
 name = "Services"
-url = "pricing"
+url = "services"
 weight = 3
 [[main]]
 name = "Contact"
