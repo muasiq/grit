@@ -16,9 +16,9 @@ feature:
   - name: Efficient BMS
     icon: fas fa-code
     content: We provide State of the Art BMS for better efficiency of the energy system
-  - name: Object Oriented
+  - name: Easy to Operate
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: The energy systems are easy to operate through built-in display
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
