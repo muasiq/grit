@@ -45,10 +45,9 @@ business:
     link: "#"
 call_to_action:
   enable: true
-  title: Need a larger plan?
+  title: Need a customized solution?
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: Please contact us if you need a customized solution
   button:
     enable: true
     label: Contact Us
