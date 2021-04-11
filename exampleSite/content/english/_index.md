@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Let us solve your critical  energy challenges
+  title: Solving Energy Challenges through sustainable ways
   image: images/banner-art.png
   content: Do what you do best without any headache for the energy problem and let
     us do what we do best and lower your energy expenses
