@@ -66,11 +66,8 @@ service:
   - title: A company standing different from others
     images:
     - images/service-3.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: We manufacture our products all in the country and the technology we
+      use is proprietary so be  assured that you are in safe hands
     button:
       enable: true
       label: Check it out
