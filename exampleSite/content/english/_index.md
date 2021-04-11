@@ -54,7 +54,8 @@ service:
       enable: true
       label: Check it out
       link: https://www.grit.energy
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: We are a team of experienced and skilled workforce working to improve our
+      products
     images:
     - images/service-2.png
     content: We are a team of experienced engineers to provide you the best energy
