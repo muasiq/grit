@@ -1,11 +1,11 @@
 ---
-title: Services
-subtitle: ''
+title: Pricing
+subtitle: pricing
 description: This is meta description
 basic:
   name: Solar Power
-  price: ''
-  price_per: ''
+  price: 15000 BDT
+  price_per: KWh
   info: Best For Home
   services:
   - Tropical Solar Panels
