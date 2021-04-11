@@ -36,10 +36,10 @@ service:
   service_item:
   - title: We provide the most advanced energy system to save your energy expenses.
     images:
-    - images/service-4.png
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
+    - images/service-4.png
     content: We use proprietary technology to ensure great power factors so you do
       not have to worry about humongous electricity bills
     button:
