@@ -23,7 +23,7 @@ feature:
     content: We are available 24/7 for your convenience
   - name: Value For Money
     icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: You save more than the money you invest in our energy solution
   - name: Faster Response
     icon: fas fa-tachometer-alt
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
