@@ -3,7 +3,7 @@ disqusShortname = ""
 googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
-theme = "bigspring"
+theme = "grit"
 title = "Grit Technologies Limited"
 [markup.goldmark.renderer]
 unsafe = true
