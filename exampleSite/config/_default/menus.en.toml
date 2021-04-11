@@ -6,7 +6,7 @@ name = "Grit Energy"
 url = "https://www.grit.energy"
 [[footer_left]]
 name = "Grit Bike"
-url = "www.gritbike.com"
+url = "http://www.gritbike.com"
 [[footer_middle]]
 name = "Pricing"
 url = "pricing"
