@@ -57,11 +57,8 @@ service:
   - title: It’s a team of experienced and skilled people with distributions
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: We are a team of experienced engineers to provide you the best energy
+      solution according to your needs
     button:
       enable: true
       label: Check it out
