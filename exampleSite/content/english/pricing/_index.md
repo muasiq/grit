@@ -40,7 +40,7 @@ business:
   - Lifetime Maintenance
   button:
     enable: true
-    label: Get started for free
+    label: 'Get started '
     link: "#"
 call_to_action:
   enable: true
