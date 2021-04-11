@@ -1,7 +1,6 @@
 +++
 date = 2021-04-11T11:00:00Z
 description = ""
-draft = true
 image = "/images/solbd.jpeg"
 title = "Bangladesh offering clean energy to 20 million people through solar power"
 type = ""
