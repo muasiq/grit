@@ -24,9 +24,9 @@ feature:
   - name: Value For Money
     icon: fas fa-heart
     content: You save more than the money you invest in our energy solution
-  - name: Faster Response
+  - name: Higher Power
     icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: You can support any type of power hungry machines with our battery packs
   - name: Cloud Support
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
