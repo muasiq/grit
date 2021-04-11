@@ -69,7 +69,10 @@ service:
     - images/service-4.png
     content: From daily commuting to sightseeing our ebikes provide the smoothest
       point A to point B experience
-    button: ''
+    button:
+      enable: true
+      label: Check it out
+      link: "#"
   - title: A company standing different from others
     images:
     - images/service-3.png
