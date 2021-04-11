@@ -28,7 +28,7 @@ url = "/"
 weight = 1
 [[main]]
 name = "Pricing"
-url = ""
+url = "pricing"
 weight = 3
 [[main]]
 name = "Blog"
