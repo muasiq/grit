@@ -73,7 +73,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: Experience the best <br> workflow without having to worry about energy
   image: images/screenshot.svg
 call_to_action:
   enable: true
