@@ -36,6 +36,7 @@ service:
   service_item:
   - title: IWe provide the most advanced energy system to save your energy expenses.
     images:
+    - images/service-4.png
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
