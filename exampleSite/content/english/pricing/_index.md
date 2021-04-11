@@ -16,16 +16,14 @@ basic:
     label: 'Get started '
     link: https://www.grit.energy
 professional:
-  name: Professional Plan
-  price: "$49"
-  price_per: month
-  info: Best For Professionals
+  name: Battery Packs
+  price: 25000 BDT
+  price_per: KWh
+  info: Best For Vehicles
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
-  - Cloud Service
-  - Best Dashboard
+  - Grade A Lithium Batteries
+  - Proprietary BMS
+  - 3 Years Warranty
   button:
     enable: true
     label: Get started for free
