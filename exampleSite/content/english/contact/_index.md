@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 subtitle: ''
-description: This is meta description
+description: For any query, Do give us a knock!
 
 ---
 ### Why you should contact us!
