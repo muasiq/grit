@@ -29,14 +29,15 @@ professional:
     label: Get started for free
     link: "#"
 business:
-  name: Business Plan
-  price: "$49"
-  price_per: month
-  info: Best For Large Individuals
+  name: Energy Storage System
+  price: 30000 BDT
+  price_per: KWh
+  info: Best For Heavy Usage
   services:
-  - Express Service
-  - Customs Clearance
-  - Time-Critical Services
+  - Lifetime Maintenance
+  - Grade A Lithium Batteries
+  - Proprietary BMS
+  - Cloud Monitoring
   button:
     enable: true
     label: Get started for free
