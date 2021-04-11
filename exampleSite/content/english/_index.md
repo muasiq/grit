@@ -13,9 +13,9 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
+  - name: Efficient BMS
     icon: fas fa-code
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: We provide State of the Art BMS for better efficiency of the energy system
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
