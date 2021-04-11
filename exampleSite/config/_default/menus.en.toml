@@ -1,15 +1,12 @@
 [[footer_left]]
-name = "Grit Bike"
-url = "www.gritbike.com"
+name = "About Us"
+url = "#"
 [[footer_left]]
 name = "Grit Energy"
 url = "https://www.grit.energy"
 [[footer_left]]
-name = "About Us"
-url = "#"
-[[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "Grit Bike"
+url = "www.gritbike.com"
 [[footer_middle]]
 name = "Pricing"
 url = "pricing"
