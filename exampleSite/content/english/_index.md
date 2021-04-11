@@ -1,7 +1,7 @@
 ---
 banner:
   title: Let us solve your critical  energy challenges
-  image: images/banner-art.svg
+  image: images/banner-art.png
   content: Do what you do best without any headache for the energy problem and let
     us do what we do best and lower your energy expenses
   button:
