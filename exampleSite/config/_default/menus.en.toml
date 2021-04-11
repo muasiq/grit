@@ -5,8 +5,8 @@ url = "#"
 name = "Quick Start"
 url = "#"
 [[footer_left]]
-name = "Services"
-url = "services"
+name = "Pricing"
+url = "pricing"
 [[footer_middle]]
 name = "Services"
 url = "services"
