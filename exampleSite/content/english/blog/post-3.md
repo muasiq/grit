@@ -1,6 +1,6 @@
 ---
 title: screens with built in Present and Dismiss animations.
-date: 2020-04-18T10:07:21.000+06:00
+date: 2020-04-18T04:07:21+00:00
 image: images/blog/post-3.jpg
 type: regular
 description: This is meta description
