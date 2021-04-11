@@ -4,7 +4,7 @@ subtitle: ''
 description: This is meta description
 
 ---
-#### Last **updated:** March 17, 2021
+#### Last **updated:** March 31, 2021
 
 Grit Technologies Ltd. (hereinafter referred to as ‘our company’) has enforced the following personal information protection policy so that you can use our official website (hereinafter referred to as ‘this site’) with peace of mind. We believe in a culture of continuous improvement. To provide you better services every time you visit us, we may need some personal data. By reading this privacy policy you will know about the type of data we use and how we save, protect, and process these data. This privacy policy applies to the use of:
 
