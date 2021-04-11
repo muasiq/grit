@@ -7,4 +7,3 @@ theme = "grit"
 title = "Grit Technologies Limited"
 [markup.goldmark.renderer]
 unsafe = true
-disableLanguages = ["de"]
