@@ -4,6 +4,6 @@ googleAnalytics = ""
 paginate = "3"
 summaryLength = "15"
 theme = "grit"
-title = "Grit Technologies Limited"
+title = ""
 [markup.goldmark.renderer]
 unsafe = true
