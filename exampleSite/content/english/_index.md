@@ -2,9 +2,8 @@
 banner:
   title: Let us solve your critical  energy challenges
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Do what you do best without any headache for the energy problem and let
+    us do what we do best and lower your energy expenses
   button:
     enable: true
     label: Contact With Us
