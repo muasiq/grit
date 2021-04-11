@@ -52,7 +52,7 @@ service:
     button:
       enable: true
       label: Check it out
-      link: www.grit.energy
+      link: https://www.grit.energy
   - title: It’s a team of experienced and skilled people with distributions
     images:
     - images/service-2.png
