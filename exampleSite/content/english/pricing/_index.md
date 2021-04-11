@@ -34,10 +34,10 @@ business:
   price_per: KWh
   info: Best For Heavy Usage
   services:
-  - Lifetime Maintenance
   - Grade A Lithium Batteries
   - Proprietary BMS
   - Cloud Monitoring
+  - Lifetime Maintenance
   button:
     enable: true
     label: Get started for free
