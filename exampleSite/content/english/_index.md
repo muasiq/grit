@@ -34,7 +34,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: It is the most advanced energy system and saves the company energy expenses.
+  - title: IWe provide the most advanced energy system to save your energy expenses.
     images:
     - images/service-1.png
     - images/service-2.png
