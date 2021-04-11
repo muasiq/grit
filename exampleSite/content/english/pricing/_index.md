@@ -26,7 +26,7 @@ professional:
   - 3 Years Warranty
   button:
     enable: true
-    label: Get started for free
+    label: Get started
     link: "#"
 business:
   name: Energy Storage System
