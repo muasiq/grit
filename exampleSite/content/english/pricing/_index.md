@@ -1,6 +1,6 @@
 ---
 title: Pricing
-subtitle: pricing
+subtitle: ''
 description: This is meta description
 basic:
   name: Solar Power
