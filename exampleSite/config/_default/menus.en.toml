@@ -8,9 +8,6 @@ url = "https://www.grit.energy"
 name = "Grit Bike"
 url = "http://www.gritbike.com"
 [[footer_middle]]
-name = "Pricing"
-url = "pricing"
-[[footer_middle]]
 name = "Platform"
 url = "#"
 [[footer_middle]]
