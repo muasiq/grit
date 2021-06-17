@@ -1,9 +1,9 @@
 ---
 banner:
-  title: Solving Energy Challenges through sustainable ways
+  title: Augmenting Technologies to life through sustainable ways
   image: images/banner-art.png
-  content: Do what you do best without any headache for the energy problem and let
-    us do what we do best and lower your energy expenses
+  content: Do what you do best without any headache for the inefficiency problem and
+    let us take care of the inefficiencies in your system by unleashing technologies
   button:
     enable: true
     label: Contact With Us
