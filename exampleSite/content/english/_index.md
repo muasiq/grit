@@ -2,8 +2,8 @@
 banner:
   title: Augmenting Technologies to life through sustainable ways
   image: images/banner-art.png
-  content: Do what you do best without any headache for the inefficiency problem and
-    let us take care of the inefficiencies in your system by unleashing technologies
+  content: Do what you do best without any headache for the energy problem and let
+    us take care of the energy inefficiencies in your system by unleashing technologies
   button:
     enable: true
     label: Contact With Us
