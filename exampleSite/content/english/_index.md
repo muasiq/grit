@@ -11,9 +11,9 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Efficient BMS
+  - name: Efficient Solution
     icon: fas fa-code
-    content: We provide State of the Art BMS for better efficiency of the energy system
+    content: Not all solutions are efficient and future proof, We try to ensure both
   - name: Easy to Operate
     icon: fas fa-object-group
     content: The energy systems are easy to operate through built-in display
