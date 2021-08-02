@@ -74,11 +74,11 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: A company standing different from others
+  - title: A company on continous feedback loop
     images:
     - images/service-3.png
-    content: We manufacture our products all in the country and the technology we
-      use is proprietary so be  assured that you are in safe hands
+    content: We believe in continuous improvement and every day we are improving our
+      products and services
     button:
       enable: true
       label: Check it out
