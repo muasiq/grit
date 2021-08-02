@@ -10,9 +10,9 @@ We provide EPC services according to your requirements and specifications. Wheth
 
 {{</ faq >}}
 
-{{< faq "What type of equipment can we use with your battery packs?" >}}
+{{< faq "How long do your batteries last?" >}}
 
-You can use any type of equipment with our battery packs/ energy storage system given you are using the rated battery packs  {{</ faq >}}
+We use lithium batteries which last for 1000-1500 cycles. With regular usage, it should last for a good 3-5 years.  {{</ faq >}}
 
 {{< faq "I need something unique, Can you make it?" >}}
 
@@ -28,6 +28,6 @@ We have documentation for all our products and we do provide all types of suppor
 
 {{< faq "Do you ship globally?" >}}
 
-We do ship our products globally. Do let us know if you have any product requirements.  You can have any product delivered to your door without any hassles.
+We do ship our products globally. Do let us know if you have any product requirements.  You can have any product delivered to your doorstep without any hassles.
 
 {{</ faq >}}
