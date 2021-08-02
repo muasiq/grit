@@ -4,9 +4,9 @@ subtitle: ''
 description: This is meta description
 
 ---
-{{< faq "What batteries do you use?" >}}
+{{< faq "What services do you provide?" >}}
 
-We source batteries from some of the biggest suppliers such as Panasonic, LG Chem and Samsung SDI. We use 18650 Lithium batteries for our products.
+We provide EPC services according to your requirements and specifications. Whether it is hardware-based or software-based service, we try to render our services with optimal performance.
 
 {{</ faq >}}
 
@@ -16,13 +16,13 @@ You can use any type of equipment with our battery packs/ energy storage system 
 
 {{< faq "I need something unique, Can you make it?" >}}
 
-We do provide customized solutions according to your needs. You can set up a meeting with us for consulting and you can assure you of an efficient solution.
+We do provide customized solutions according to your needs. You can set up a meeting with us for consulting and we can assure you of an efficient solution.
 
 {{</ faq >}}
 
 {{< faq "Is there any documentation and support?" >}}
 
-We have documentations for all our products and we do provide all types of supports whether it's cloud support or physical maintenance.
+We have documentation for all our products and we do provide all types of supports whether it's cloud support or physical maintenance.
 
 {{</ faq >}}
 
