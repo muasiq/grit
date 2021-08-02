@@ -58,7 +58,7 @@ service:
   - title: We are a dedicated team working to improve our products and services
     images:
     - images/service-2.png
-    content: We are a team of engineers to provide you the best service according
+    content: We are a team of engineers to provide you the best EPC service according
       to your needs
     button:
       enable: true
