@@ -16,7 +16,7 @@ feature:
     content: Not all solutions are efficient and future proof, We try to ensure both
   - name: Easy to Operate
     icon: fas fa-object-group
-    content: The energy systems are easy to operate through built-in display
+    content: We make our system easy to operate with minimal guidance
   - name: 24h Service
     icon: fas fa-user-clock
     content: We provide 24h service for your convenience
