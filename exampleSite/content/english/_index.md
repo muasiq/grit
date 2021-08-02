@@ -99,4 +99,3 @@ call_to_action:
     link: contact
 
 ---
-We provide an advanced energy system to save your energy expenses.
