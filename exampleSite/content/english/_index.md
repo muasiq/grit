@@ -19,7 +19,7 @@ feature:
     content: The energy systems are easy to operate through built-in display
   - name: 24h Service
     icon: fas fa-user-clock
-    content: We are available 24/7 for your convenience
+    content: We provide 24h service for your convenience
   - name: Value For Money
     icon: fas fa-heart
     content: You save more than the money you invest in our energy solution
