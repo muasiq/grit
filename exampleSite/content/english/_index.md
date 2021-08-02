@@ -28,8 +28,7 @@ feature:
     content: You can support any type of power hungry machines with our battery packs
   - name: Cloud Support
     icon: fas fa-cloud
-    content: You can monitor all the details that go into our battery packs all from
-      the cloud
+    content: You can monitor all the details of work-in-progress from the cloud
 service:
   enable: true
   service_item:
