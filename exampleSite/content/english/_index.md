@@ -24,9 +24,10 @@ feature:
     icon: fas fa-heart
     content: You invest to make your system efficient, We ensure you earn more than
       your investment
-  - name: Higher Power
+  - name: Fast Commissioning
     icon: fas fa-tachometer-alt
-    content: You can support any type of power hungry machines with our battery packs
+    content: By utilizing parallel workflow and agile project management, We ensure
+      fast commissioning
   - name: Cloud Support
     icon: fas fa-cloud
     content: You can monitor all the details of work-in-progress from the cloud
