@@ -4,9 +4,9 @@ subtitle: ''
 description: This is meta description
 
 ---
-{{< faq "What batteries do you use?" >}} 
+{{< faq "What batteries do you use?" >}}
 
-We source batteries from some of the biggest suppliers such as Panasonic, LG Chem and Samsung SDI. We use 18650 Lithium batteries for our products. 
+We source batteries from some of the biggest suppliers such as Panasonic, LG Chem and Samsung SDI. We use 18650 Lithium batteries for our products.
 
 {{</ faq >}}
 
@@ -14,20 +14,20 @@ We source batteries from some of the biggest suppliers such as Panasonic, LG Che
 
 You can use any type of equipment with our battery packs/ energy storage system given you are using the rated battery packs  {{</ faq >}}
 
-{{< faq "I need something unique, Can you make it?" >}} 
+{{< faq "I need something unique, Can you make it?" >}}
 
-We do provide customized solution according to your needs. You can set up a meeting with us for consulting and you can assure you of an efficietnt solution.
+We do provide customized solutions according to your needs. You can set up a meeting with us for consulting and you can assure you of an efficient solution.
 
- {{</ faq >}}
+{{</ faq >}}
 
-{{< faq "Is there any documentation and support?" >}} 
+{{< faq "Is there any documentation and support?" >}}
 
-We have documentations for all our products and we do provide all type of supports whether its cloud support or physical maintenance.
+We have documentations for all our products and we do provide all types of supports whether it's cloud support or physical maintenance.
 
- {{</ faq >}}
+{{</ faq >}}
 
-{{< faq "Do you export" >}} 
+{{< faq "Do you ship globally?" >}}
 
-We do export our products abroad. Do let us know if you have any product requirements.  You can have any product delivered to your door without any hassles.
+We do ship our products globally. Do let us know if you have any product requirements.  You can have any product delivered to your door without any hassles.
 
- {{</ faq >}}
+{{</ faq >}}
