@@ -34,7 +34,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: We provide the most advanced energy system to save your energy expenses.
+  - title: " your energy expenses."
     images:
     - images/service-1.png
     - images/service-2.png
@@ -99,3 +99,4 @@ call_to_action:
     link: contact
 
 ---
+We provide an advanced energy system to save your energy expenses.
