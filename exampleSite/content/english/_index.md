@@ -55,12 +55,11 @@ service:
       enable: true
       label: Check it out
       link: https://www.grit.energy
-  - title: We are a team of experienced and skilled workforce working to improve our
-      products and services
+  - title: We are a dedicated team working to improve our products and services
     images:
     - images/service-2.png
-    content: We are a team of experienced engineers to provide you the best service
-      according to your needs
+    content: We are a team of engineers to provide you the best service according
+      to your needs
     button:
       enable: true
       label: Check it out
