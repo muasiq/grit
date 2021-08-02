@@ -13,7 +13,7 @@ feature:
   feature_item:
   - name: Efficient Solution
     icon: fas fa-code
-    content: Not all solutions are efficient and future proof, We try to ensure both
+    content: Not all solutions are efficient and future proof, We ensure both
   - name: Easy to Operate
     icon: fas fa-object-group
     content: We make our system easy to operate with minimal guidance
