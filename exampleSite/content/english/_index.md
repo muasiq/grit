@@ -24,13 +24,13 @@ feature:
     icon: fas fa-heart
     content: You invest to make your system efficient, We ensure you earn more than
       your investment
+  - name: Cloud Support
+    icon: fas fa-cloud
+    content: You can monitor all the details of work-in-progress from the cloud
   - name: Fast Commissioning
     icon: fas fa-tachometer-alt
     content: By utilizing parallel workflow and agile project management, We ensure
       fast commissioning
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: You can monitor all the details of work-in-progress from the cloud
 service:
   enable: true
   service_item:
