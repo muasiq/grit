@@ -10,4 +10,4 @@ Grit wants to create an impact on traditional energy usage by mitigating ineffic
 
 Leveraging cutting-edge energy generation and storage technology, We are committed to serving our clients with customizable energy solutions as per their needs.
 
-We look forward to cutting down the energy-related inefficiencies to zero by going all solar and become a Kardashev Type I civilization.
+We look forward to cutting down the energy-related inefficiencies and emissions to net-zero and become a Kardashev Type I Civilization.
