@@ -83,7 +83,8 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow without having to worry about energy
+  title: Experience the best <br> workflow without having to worry about your system
+    inefficiencies
   image: images/ess.png
 call_to_action:
   enable: true
