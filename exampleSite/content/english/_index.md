@@ -34,7 +34,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: We provide an advanced energy system to save your energy expenses.
+  - title: We provide Lithium based energy system to save your energy expenses.
     images:
     - images/service-1.png
     - images/service-2.png
@@ -46,7 +46,7 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: We provide solutions to any type of your energy problem
+  - title: We provide solutions tailored to your energy problem
     images:
     - images/service-1.png
     content: Whether it is your electricity energy storage system for your home, solar
