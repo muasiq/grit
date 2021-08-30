@@ -34,14 +34,13 @@ feature:
 service:
   enable: true
   service_item:
-  - title: We provide lithium based energy system to save your energy expenses.
+  - title: We provide solar system installation and maintenance sloutions
     images:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
     - images/service-4.png
-    content: We use proprietary technology to ensure great power factors so you do
-      not have to worry about humongous electricity bills
+    content: ''
     button:
       enable: true
       label: Check it out
