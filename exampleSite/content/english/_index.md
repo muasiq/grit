@@ -2,7 +2,7 @@
 banner:
   title: Augmenting Technologies to Life Through Sustainable Ways
   image: images/banner-art.png
-  content: Let us take care of the inefficiencies in your system by unleashing technologies
+  content: Let us make your system efficient and effective by unleashing proper technologies
   button:
     enable: true
     label: Contact With Us
