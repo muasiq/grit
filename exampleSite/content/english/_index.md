@@ -34,7 +34,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: We provide Lithium based energy system to save your energy expenses.
+  - title: We provide lithium based energy system to save your energy expenses.
     images:
     - images/service-1.png
     - images/service-2.png
