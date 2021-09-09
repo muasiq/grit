@@ -8,11 +8,11 @@ url = "contact"
 name = "Blog"
 url = "blog"
 [[footer_middle]]
-name = "Grit Energy"
-url = "https://www.grit.energy"
-[[footer_middle]]
 name = "Grit Bike"
 url = "http://www.gritbike.com"
+[[footer_middle]]
+name = "Grit Energy"
+url = "https://www.grit.energy"
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
