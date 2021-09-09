@@ -1,4 +1,3 @@
-footer_middle = []
 [[footer_left]]
 name = "About Us"
 url = "about-us"
@@ -8,6 +7,12 @@ url = "https://www.grit.energy"
 [[footer_left]]
 name = "Grit Bike"
 url = "http://www.gritbike.com"
+[[footer_middle]]
+name = "Contact"
+url = "contact"
+[[footer_middle]]
+name = "Blog"
+url = "blog"
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
