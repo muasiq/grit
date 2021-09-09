@@ -2,17 +2,17 @@
 name = "About Us"
 url = "about-us"
 [[footer_left]]
-name = "Grit Energy"
-url = "https://www.grit.energy"
-[[footer_left]]
-name = "Grit Bike"
-url = "http://www.gritbike.com"
-[[footer_middle]]
 name = "Contact"
 url = "contact"
-[[footer_middle]]
+[[footer_left]]
 name = "Blog"
 url = "blog"
+[[footer_middle]]
+name = "Grit Energy"
+url = "https://www.grit.energy"
+[[footer_middle]]
+name = "Grit Bike"
+url = "http://www.gritbike.com"
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
