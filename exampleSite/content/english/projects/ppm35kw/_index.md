@@ -1,1 +1,0 @@
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrH1eJjVMqtiWAw3?backgroundColor=blue&layout=card" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
