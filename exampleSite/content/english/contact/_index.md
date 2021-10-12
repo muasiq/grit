@@ -12,4 +12,4 @@ We are eager to give you the best solution.
 
 * **Phone: +880-1881997646 , +880-1881842770**
 * **Mail: contact@grit0.com**
-* **Address:  6 Kemal Ataturk Avenue, Banani, Dhaka-1213, Bangladesh**
+* **Address:**  Level 4, Vision 2021 Tower, Karwan Bazar, Dhaka-1215
