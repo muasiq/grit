@@ -34,7 +34,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: We provide solar system installation and maintenance sloutions
+  - title: We provide solar system installation and maintenance solutions
     images:
     - images/service-1.png
     - images/service-2.png
