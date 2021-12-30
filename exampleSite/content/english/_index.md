@@ -9,7 +9,7 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: What We Provide
   feature_item:
   - name: Efficient Solution
     icon: fas fa-code
