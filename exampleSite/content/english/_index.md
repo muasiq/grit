@@ -57,7 +57,7 @@ service:
   - title: We provide customized hardware and software services for your system needs
     images:
     - images/service-2.png
-    content: We are a team of engineers to provide you the best EPC service according
+    content: We are a team of engineers,academics and builders to provide you the best EPC service according
       to your needs.
     button:
       enable: false
