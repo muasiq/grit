@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-description: This is meta description
+description: Sustainability Focused B corp 
 
 ---
 Grit Technologies Limited started its journey as a B corp with a vision to enable a sustainable ecosystem through efficient use of energy and technology.
