@@ -34,7 +34,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: We provide solar system installation and maintenance solutions
+  - title: We provide solutions to increase your system efficiency
     images:
     - images/service-1.png
     - images/service-2.png
@@ -42,44 +42,43 @@ service:
     - images/service-4.png
     content: ''
     button:
-      enable: true
-      label: Check it out
+      enable: false
+      label: Read a Case Study
       link: "#"
-  - title: We provide solutions tailored to your energy problem
+  - title: We provide sustainable solutions tailored to your energy problem
     images:
     - images/service-1.png
-    content: Whether it is your electricity energy storage system for your home, solar
-      panel, car, motorcycle, electric bikes, We have you covered
+    content: Whether your system needs to be efficient in sustainable energy generation, storage or usage, 
+            We have you covered.
     button:
-      enable: true
-      label: Check it out
-      link: https://www.grit.energy
-  - title: We are a dedicated team working to improve our products and services
+      enable: false
+      label: Read a Case Study
+      link: "#"
+  - title: We provide customized hardware and software services for your system needs
     images:
     - images/service-2.png
     content: We are a team of engineers to provide you the best EPC service according
-      to your needs
+      to your needs.
     button:
-      enable: true
-      label: Check it out
+      enable: false
+      label: Read a Case Study
       link: "#"
-  - title: We provide sustainable commuting solution
+  - title: We provide enterprise resource planning software suitable to your system/ organization requirements.
     images:
     - images/service-4.png
-    content: From daily commuting to sightseeing our ebikes provide the smoothest
-      point A to point B experience
+    content: Be it a company, educational instituition, Hospital, Non profit; We provide customized ERP solutions.
     button:
-      enable: true
-      label: Check it out
+      enable: false
+      label: Read a Case Study
       link: "#"
-  - title: A company on continous feedback loop
+  - title: We are on continuos feedback loop
     images:
     - images/service-3.png
-    content: We believe in continuous improvement and every day we are improving our
-      products and services
+    content: We believe in continuous improvement and every single day we are improving our
+      products and services to provide wholesome experience to clients.
     button:
-      enable: true
-      label: Check it out
+      enable: false
+      label: Read a Case Study
       link: "#"
 screenshot:
   enable: true
@@ -90,7 +89,7 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: 'If you feel like checking things out whether it suits you, you can contact
+  content: 'If you want to improve or overhaul your existing system, you can contact
     us any time '
   button:
     enable: true
