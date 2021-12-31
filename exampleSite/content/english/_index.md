@@ -65,7 +65,7 @@ service:
       link: "#"
   - title: We provide enterprise resource planning software suitable to your system/ organization requirements.
     images:
-    - images/service-4.png
+    - images/service-3.png
     content: Be it a company, educational instituition, Hospital, Non profit; We provide customized ERP solutions.
     button:
       enable: false
@@ -73,7 +73,7 @@ service:
       link: "#"
   - title: We are on continuos feedback loop
     images:
-    - images/service-3.png
+    - images/service-4.png
     content: We believe in continuous improvement and every single day we are improving our
       products and services to provide wholesome experience to clients.
     button:
