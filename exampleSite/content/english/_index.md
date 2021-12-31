@@ -66,12 +66,12 @@ service:
   - title: Enterprise resource planning software suitable to your system/ organization requirements.
     images:
     - images/service-3.png
-    content: Be it a company, educational instituition, Hospital, Non profit; There is a customized ERP solution for you.
+    content: Be it a company, educational instituition, hospital, non profit; There is a customized ERP solution for you.
     button:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: We are on continuous feedback loop
+  - title: We are on a continuous feedback loop
     images:
     - images/service-4.png
     content: We believe in continuous improvement and every single day we are improving our
