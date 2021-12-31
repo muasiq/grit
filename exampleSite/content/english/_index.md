@@ -36,16 +36,16 @@ service:
   service_item:
   - title: We provide technological solutions to increase your system efficiency
     images:
-    - images/service-1.png
-    - images/service-2.png
-    - images/service-3.png
-    - images/service-4.png
+    - images/service-1.jpg
+    - images/service-2.jpg
+    - images/service-3.jpg
+    - images/service-4.jpg
     content: ''
     button:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: We provide sustainable solutions tailored to your energy problem
+  - title: Industry proven sustainable solutions tailored to your energy problem
     images:
     - images/service-1.png
     content: Whether your system needs to be efficient in sustainable energy generation, storage or usage, 
@@ -54,7 +54,7 @@ service:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: We provide customized hardware and software services for your system needs
+  - title: Customized hardware and software services for your system needs
     images:
     - images/service-2.png
     content: We are a team of engineers,academics and builders to provide you the best EPC service according
@@ -63,19 +63,19 @@ service:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: We provide enterprise resource planning software suitable to your system/ organization requirements.
+  - title: Enterprise resource planning software suitable to your system/ organization requirements.
     images:
     - images/service-3.png
-    content: Be it a company, educational instituition, Hospital, Non profit; We provide customized ERP solutions.
+    content: Be it a company, educational instituition, Hospital, Non profit; There is a customized ERP solution for you.
     button:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: We are on continuos feedback loop
+  - title: We are on continuous feedback loop
     images:
     - images/service-4.png
     content: We believe in continuous improvement and every single day we are improving our
-      products and services to provide wholesome experience to clients.
+      products and services to provide wholesome experience to you.
     button:
       enable: false
       label: Read a Case Study
@@ -89,8 +89,8 @@ call_to_action:
   enable: true
   title: Ready to get started?
   image: images/cta.svg
-  content: 'If you want to improve or overhaul your existing system, you can contact
-    us any time '
+  content: 'If you want to know more about our scope of services, you can contact
+    us any time. '
   button:
     enable: true
     label: Contact Us
