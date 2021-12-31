@@ -4,10 +4,10 @@ subtitle: ''
 description: This is meta description
 
 ---
-Grit Technologies Limited started its journey as a B corp with a vision to enable a sustainable ecosystem through efficient use of energy.
+Grit Technologies Limited started its journey as a B corp with a vision to enable a sustainable ecosystem through efficient use of energy and technology.
 
-Grit wants to create an impact on traditional energy usage by mitigating inefficiencies and introducing renewable energy sources with efficient storage systems.
+Grit is working towards mitigating inefficiencies in any type of system by leveraging sustainable and effective hardware or software technologies.
 
-Leveraging cutting-edge energy generation and storage technology, We are committed to serving our clients with customizable energy solutions as per their needs.
+Leveraging cutting-edge hardware and software technology, We are committed to serving our clients with customizable solutions as per their needs.
 
 We look forward to cutting down the energy-related inefficiencies and emissions to net-zero and become a Kardashev Type I Civilization.
