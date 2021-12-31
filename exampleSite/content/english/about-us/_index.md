@@ -6,7 +6,7 @@ description: This is meta description
 ---
 Grit Technologies Limited started its journey as a B corp with a vision to enable a sustainable ecosystem through efficient use of energy and technology.
 
-Grit is working towards mitigating inefficiencies in any type of system by leveraging sustainable and effective hardware or software technologies.
+We audit clients' system and provide necessary solutions to increase their efficiency by leveraging sustainable and effective hardware or software technologies.
 
 Leveraging cutting-edge hardware and software technology, We are committed to serving our clients with customizable solutions as per their needs.
 
