@@ -6,9 +6,8 @@ description: For any query, Do give us a knock!
 ---
 ### Reach us any time!
 
-If you need any type of Energy solution,  Write away!
+If you want to improve your system,  Write away!
 
-We are eager to give you the best solution.
 
 * **Phone: +880-1881997646 , +880-1881842770**
 * **Mail: contact@grit0.com**
