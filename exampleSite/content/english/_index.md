@@ -34,7 +34,7 @@ feature:
 service:
   enable: true
   service_item:
-  - title: We provide technological solutions to increase your system efficiency
+  - title: We Provide Technological Solutions to Increase Your System Efficiency.
     images:
     - images/service-1.png
     - images/service-2.png
@@ -45,7 +45,7 @@ service:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: Industry proven sustainable solutions tailored to your energy problem
+  - title: Industry Proven Sustainable Solutions Tailored to Your Energy Problem.
     images:
     - images/service-1.png
     content: Whether your system needs to be efficient in sustainable energy generation, storage or usage, 
@@ -54,16 +54,16 @@ service:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: Customized hardware and software services for your system needs
+  - title: Customized Hardware and Software Services with IoT Integration for Your System Needs.
     images:
     - images/service-2.png
-    content: We are a team of engineers,academics and builders to provide you the best EPC service according
+    content: We are a team of engineers, academics and builders to provide you the best EPC service according
       to your needs.
     button:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: Enterprise resource planning software suitable to your system/ organization requirements.
+  - title: Resource planning Software Suitable to Your System/ Organization Requirements.
     images:
     - images/service-3.png
     content: Be it a company, educational instituition, hospital, non profit; There is a customized ERP solution for you.
@@ -71,7 +71,7 @@ service:
       enable: false
       label: Read a Case Study
       link: "#"
-  - title: We are on a continuous feedback loop
+  - title: We are on a Continuous Feedback Loop.
     images:
     - images/service-4.png
     content: We believe in continuous improvement and every single day we are improving our
