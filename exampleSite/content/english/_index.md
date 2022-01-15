@@ -16,13 +16,13 @@ feature:
     content: Not all solutions are efficient and future proof, We ensure both
   - name: Easy to Operate
     icon: fas fa-object-group
-    content: We make our system easy to operate with minimal guidance
+    content: We make our systems easy to operate with minimal guidance
   - name: 24h Service
     icon: fas fa-user-clock
     content: We provide 24h service for your convenience
   - name: Value For Money
     icon: fas fa-heart
-    content: You invest to make your system efficient, We ensure you earn more than
+    content: You invest to make your system efficient, We ensure you earn more from
       your investment
   - name: Cloud Support
     icon: fas fa-cloud
@@ -66,7 +66,7 @@ service:
   - title: Resource planning Software Suitable to Your System/ Organization Requirements.
     images:
     - images/service-3.png
-    content: Be it a company, educational instituition, hospital, non profit; There is a customized ERP solution for you.
+    content: Be it a company, educational instituition, hospital, non profit; There is a customized IMS solution for you.
     button:
       enable: false
       label: Read a Case Study
