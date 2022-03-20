@@ -57,7 +57,7 @@ service:
   - title: Customized Hardware and Software Services with IoT Integration for Your System Needs.
     images:
     - images/service-2.png
-    content: We are a team of engineers, academics and builders to provide you the best EPC service according
+    content: We are a team of engineers, academics and builders to provide you the best hardware and software integrated EPC service according
       to your needs.
     button:
       enable: false
