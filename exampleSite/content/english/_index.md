@@ -83,7 +83,7 @@ service:
 screenshot:
   enable: true
   title: Experience the best <br> workflow without having to worry about your system
-    inefficiencies
+    inefficiencies.
   image: images/ess.png
 call_to_action:
   enable: true
