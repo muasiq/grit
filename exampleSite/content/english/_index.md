@@ -22,7 +22,7 @@ feature:
     content: We provide 24h service for your convenience
   - name: Value For Money
     icon: fas fa-heart
-    content: You invest to make your system efficient, We ensure you earn more from
+    content: You invest to make your system efficient, We ensure you save more than
       your investment
   - name: Cloud Support
     icon: fas fa-cloud
