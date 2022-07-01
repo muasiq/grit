@@ -5,7 +5,7 @@ url = "about-us"
 name = "Contact"
 url = "contact"
 [[footer_left]]
-name = "Blog"
+name = "Net Zero Blog"
 url = "blog"
 # [[footer_middle]]
 # name = "Grit Bike"
