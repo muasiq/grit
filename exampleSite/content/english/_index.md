@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Augmenting Technologies to Life and Systems Through Sustainable Ways
+  title: Augmenting Technologies To Systems Through Sustainable Ways
   image: images/banner-art.png
   content: Let us make your system efficient and effective by unleashing proper technologies
   button:
