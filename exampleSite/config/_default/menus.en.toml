@@ -11,11 +11,11 @@ url = "blog"
 # name = "Grit Bike"
 # url = "http://www.gritbike.com"
 [[footer_middle]]
-name = "Energy"
-url = "https://www.grit.energy"
-[[footer_middle]]
 name = "Education"
 url = "https://www.unive.one"
+[[footer_middle]]
+name = "Energy"
+url = "https://www.grit.energy"
 [[footer_right]]
 name = "Privacy Policy"
 url = "privacy-policy"
