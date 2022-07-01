@@ -27,7 +27,7 @@ name = "Home"
 url = "/"
 weight = 1
 [[main]]
-name = "Blog"
+name = "Net Zero Blog"
 url = "blog"
 weight = 2
 [[main]]
