@@ -24,6 +24,9 @@ url = "https://www.unive.one"
 name = "Privacy Policy"
 url = "privacy-policy"
 [[footer_right]]
+name = "Safety Policy"
+url = "safety-policy"
+[[footer_right]]
 name = "Terms & Conditions"
 url = "terms-conditions"
 [[footer_right]]
