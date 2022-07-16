@@ -11,6 +11,9 @@ url = "blog"
 # name = "Grit Bike"
 # url = "http://www.gritbike.com"
 [[footer_middle]]
+name = "EPC Services"
+url = "https://www.gritepc.com"
+[[footer_middle]]
 name = "Energy Services"
 url = "https://www.grit.energy"
 [[footer_middle]]
