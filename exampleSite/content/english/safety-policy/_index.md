@@ -7,7 +7,7 @@ description: This is meta description
 #### Last **updated:** July 10, 2022
 
 
-The safety of employees at work is a core value of Grit Technologies Limited. No other business objective has higher priority.
+**The safety of employees at work is a core value of Grit Technologies Limited. No other business objective has higher priority.**
 
 This Safety Policy is to guide all employees of Grit Technologies Limited and its affiliates (together, “Grit Energy” or the “Company”) in pursuing their responsibility, shared with the Company, to safeguard the health and well being of everyone involved with Grit Technologies Limited.
 
