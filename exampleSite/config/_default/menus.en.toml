@@ -16,6 +16,7 @@ url = "https://www.gritepc.com"
 [[footer_middle]]
 name = "Energy Services"
 url = "https://www.grit.energy"
+weight = 1
 [[footer_middle]]
 name = "Education Services"
 url = "https://www.unive.one"
